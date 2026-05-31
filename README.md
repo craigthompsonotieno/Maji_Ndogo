@@ -6,7 +6,7 @@ The **Maji Ndogo Project** analyzes water access and demographic data in the fic
 
 - **Data**: Raw datasets and processed files.
 - **Scripts**: Python scripts for data cleaning and modeling.
-- **Visualizations**: Graphs, charts, and Power BI dashboards.
+- **Visualizations**: Graphs, charts, and Power BI dashboard.
 
 ## 🔧 Tools Used
 
