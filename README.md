@@ -18,7 +18,7 @@ The project was completed in four progressive parts, each building on the last �
 Maji_Ndogo/
 ├── Scripts/              # SQL queries and Python analysis scripts
 ├── Data/                 # Raw and processed datasets (gitignored)
-├── Visualisations/       # Power BI dashboards and chart exports
+├── Visualisations/       # Power BI dashboard
 ├── .gitignore
 └── README.md
 ```
